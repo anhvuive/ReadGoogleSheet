@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2abeb8cb8a2214efe9aa3196983c5a38, type: 3}
+  m_Name: CharacterConfigList
+  m_EditorClassIdentifier: 
+  sheetId: 11Wv9tdHdHY71MzzsrA9A4hUsMETLVUxJ9iocIc6Fjkg
+  gridId: 0
+  characters:
+  - characterName: hela
+    characterAvatar: {fileID: 21300000, guid: 1c167bfed5fbc4793a5a8f3e6c849212, type: 3}
+    hp: 100
+    damage: 10
+    unlockLevel: 1
+    unlockType: 0
+    unlockCost: 0
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: odin
+    characterAvatar: {fileID: 21300000, guid: e421fad89b8764831ad147c5b15481f9, type: 3}
+    hp: 100
+    damage: 10
+    unlockLevel: 11
+    unlockType: 2
+    unlockCost: 1
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: panther
+    characterAvatar: {fileID: 21300000, guid: dc9a27d28995f461f82418a9a5003cfc, type: 3}
+    hp: 100
+    damage: 10
+    unlockLevel: 13
+    unlockType: 2
+    unlockCost: 1
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: spider
+    characterAvatar: {fileID: 21300000, guid: 61d58441c857f4b3aa0cdeaa4063b949, type: 3}
+    hp: 100
+    damage: 10
+    unlockLevel: 15
+    unlockType: 2
+    unlockCost: 1
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: thanos
+    characterAvatar: {fileID: 0}
+    hp: 100
+    damage: 10
+    unlockLevel: 17
+    unlockType: 2
+    unlockCost: 2
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: hulk
+    characterAvatar: {fileID: 0}
+    hp: 100
+    damage: 10
+    unlockLevel: 3
+    unlockType: 1
+    unlockCost: 5
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: ironman
+    characterAvatar: {fileID: 0}
+    hp: 100
+    damage: 10
+    unlockLevel: 5
+    unlockType: 1
+    unlockCost: 10
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: loki
+    characterAvatar: {fileID: 0}
+    hp: 100
+    damage: 10
+    unlockLevel: 7
+    unlockType: 3
+    unlockCost: 2
+    upgradeCost: 0a0000000f00000014000000190000001e000000
+  - characterName: nebula
+    characterAvatar: {fileID: 0}
+    hp: 100
+    damage: 10
+    unlockLevel: 9
+    unlockType: 3
+    unlockCost: 5
+    upgradeCost: 0a0000000f00000014000000190000001e000000

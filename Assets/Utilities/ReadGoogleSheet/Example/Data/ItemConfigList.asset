@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e00fcda6e857145519bac6176cc2bf15, type: 3}
+  m_Name: ItemConfigList
+  m_EditorClassIdentifier: 
+  sheetId: 1y5em0mvCOc63Tgou5iq8qYn5SRubFaJWm-FgrkHcTOQ
+  gridId: 0
+  items:
+  - name: item1
+    avatar: {fileID: 21300000, guid: 8d63964e7ffaa4ab4b1a92d362f79fc2, type: 3}
+    damage: 10
+    price: 100
+    costType: 1
+  - name: item2
+    avatar: {fileID: 21300000, guid: 9e9ae39e1de704e18b8f985d54c0b753, type: 3}
+    damage: 15
+    price: 100
+    costType: 1
+  - name: item3
+    avatar: {fileID: 21300000, guid: 30afe64546a014115a0831dd6128d737, type: 3}
+    damage: 20
+    price: 100
+    costType: 1
+  - name: item4
+    avatar: {fileID: 0}
+    damage: 25
+    price: 100
+    costType: 1
+  - name: item5
+    avatar: {fileID: 0}
+    damage: 30
+    price: 100
+    costType: 1
+  - name: item6
+    avatar: {fileID: 0}
+    damage: 35
+    price: 100
+    costType: 3
+  - name: item7
+    avatar: {fileID: 0}
+    damage: 40
+    price: 100
+    costType: 3
+  - name: item8
+    avatar: {fileID: 0}
+    damage: 45
+    price: 100
+    costType: 3
+  - name: item9
+    avatar: {fileID: 0}
+    damage: 50
+    price: 100
+    costType: 3
+  - name: item10
+    avatar: {fileID: 0}
+    damage: 55
+    price: 100
+    costType: 3
